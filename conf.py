@@ -156,7 +156,7 @@ THEME = "hyde"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#1670d4'
+THEME_COLOR = '#5670d4'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
