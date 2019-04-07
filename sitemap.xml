@@ -6,139 +6,139 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://blog.artofgeek.net/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2012/</loc>
+  <loc>https://blog.artofgeek.net/2012/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2019/</loc>
+  <loc>https://blog.artofgeek.net/2019/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2019-04-06T21:54:00Z</lastmod>
+  <loc>https://blog.artofgeek.net/archive.html</loc>
+  <lastmod>2019-04-07T03:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/</loc>
+  <loc>https://blog.artofgeek.net/authors/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/manish-ravula/</loc>
+  <loc>https://blog.artofgeek.net/authors/manish-ravula/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/roberto-alsina/</loc>
+  <loc>https://blog.artofgeek.net/authors/roberto-alsina/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://blog.artofgeek.net/categories/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/blog/</loc>
+  <loc>https://blog.artofgeek.net/categories/blog/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_nikola/</loc>
+  <loc>https://blog.artofgeek.net/categories/cat_nikola/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/demo/</loc>
+  <loc>https://blog.artofgeek.net/categories/demo/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/nikola/</loc>
+  <loc>https://blog.artofgeek.net/categories/nikola/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/python/</loc>
+  <loc>https://blog.artofgeek.net/categories/python/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://blog.artofgeek.net/galleries/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/demo/</loc>
+  <loc>https://blog.artofgeek.net/galleries/demo/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://blog.artofgeek.net/listings/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://blog.artofgeek.net/listings/__pycache__/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2019-04-06T21:54:00Z</lastmod>
+  <loc>https://blog.artofgeek.net/listings/hello.py.html</loc>
+  <lastmod>2019-04-07T03:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/about-nikola/</loc>
+  <loc>https://blog.artofgeek.net/pages/about-nikola/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/bootstrap-demo/</loc>
+  <loc>https://blog.artofgeek.net/pages/bootstrap-demo/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/charts/</loc>
+  <loc>https://blog.artofgeek.net/pages/charts/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/creating-a-theme/</loc>
+  <loc>https://blog.artofgeek.net/pages/creating-a-theme/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://blog.artofgeek.net/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/extending/</loc>
+  <loc>https://blog.artofgeek.net/pages/extending/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/handbook/</loc>
+  <loc>https://blog.artofgeek.net/pages/handbook/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/internals/</loc>
+  <loc>https://blog.artofgeek.net/pages/internals/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/listings-demo/</loc>
+  <loc>https://blog.artofgeek.net/pages/listings-demo/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/path-handlers/</loc>
+  <loc>https://blog.artofgeek.net/pages/path-handlers/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickref/</loc>
+  <loc>https://blog.artofgeek.net/pages/quickref/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickstart/</loc>
+  <loc>https://blog.artofgeek.net/pages/quickstart/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/social_buttons/</loc>
+  <loc>https://blog.artofgeek.net/pages/social_buttons/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/theming/</loc>
+  <loc>https://blog.artofgeek.net/pages/theming/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/in-the-beginning-there-was-commandline/</loc>
+  <loc>https://blog.artofgeek.net/posts/in-the-beginning-there-was-commandline/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/welcome-to-nikola/</loc>
+  <loc>https://blog.artofgeek.net/posts/welcome-to-nikola/</loc>
   <lastmod>2019-04-06T21:53:00Z</lastmod>
  </url>
 </urlset>
