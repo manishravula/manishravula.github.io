@@ -17,15 +17,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Manish Ravula"  # (translatable)
-BLOG_TITLE = "Art of Geek - Blog"  # (translatable)
+BLOG_TITLE = "The Art of Geek"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://blog.artofgeek.net/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "manishreddy@utexas.edu"
-BLOG_DESCRIPTION = "A Blog by Manish Ravula"  # (translatable)
+BLOG_DESCRIPTION = "Musings of a curious geek!"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -851,7 +851,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # Note that in case INDEXES_PAGES_MAIN is set to True, a redirection will be created
 # for the full URL with the page number of the main page to the normal (shorter) main
 # page URL.
-# INDEXES_PRETTY_PAGE_URL = False
+INDEXES_PRETTY_PAGE_URL = True
 #
 # If the following is true, a page range navigation will be inserted to indices.
 # Please note that this will undo the effect of INDEXES_STATIC, as all index pages
